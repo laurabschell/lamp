@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+body, p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.bulb {
+    background-image: url("../images/bulbbackground.png");
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+    width: 100%;
+}
+
+.bulbinner, img {
+    display: block;
+    margin: 0px auto;
+}
+
+button {
+    margin-top: 15px;
+}
